@@ -6,3 +6,5 @@ La version code est présente à partir de l'arborescence principale. Pour des r
 # Version Build
 
 Si vous voulez le jeu en lui-même construit et prêt à jouer, téléchargez le fichier Pendu_Unity_Build.zip. Il contient le fichier éxecutable ainsi que le reste des fichiers nécessaires.
+
+À noter que l'API utilisée actuellement ne permet d'avoir accès qu'à 100 mots par mois. Au-delà, la bibliothèque intégrée sera utilisée, mais elle possède moins de mots depuis lesquel choisir.
