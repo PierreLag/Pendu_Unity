@@ -47,15 +47,24 @@ namespace Pendu
         /// </summary>
         private static String[] motsListe =
         {
-        "TEST",
-        "VOCABULAIRE",
-        "EXAMEN",
-        "ANTICIPATION",
-        "ORDINATEUR",
-        "CONJUGAISON",
-        "BATEAU",
-        "COORDINATEUR"
-    };
+            "TEST",
+            "VOCABULAIRE",
+            "EXAMEN",
+            "ANTICIPATION",
+            "ORDINATEUR",
+            "CONJUGAISON",
+            "BATEAU",
+            "COORDINATEUR",
+            "ASSEMBLER",
+            "PERQUISITION",
+            "FRACTION",
+            "QUESTIONNAIRE",
+            "ELECTRIQUE",
+            "ACOUSTIQUE",
+            "PERMANENCE",
+            "ORCHESTRE",
+            "CARQUOIS"
+        };
 
         /// <summary>
         /// Mot à deviner dans le cadre du jeu du pendu
